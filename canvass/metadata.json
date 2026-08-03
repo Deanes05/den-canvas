@@ -1,0 +1,6 @@
+{
+  "name": "Deane-Visualizer",
+  "description": "A node-based canvas application for visually connecting media and text nodes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
